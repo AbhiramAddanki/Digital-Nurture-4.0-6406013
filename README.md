@@ -96,4 +96,76 @@ Highlights:
 
 > Folder: `Week 02-Programming Languages/Module 03-PLSQL Programming/Exercise 3 - Stored Procedures`
 
+# Module 04 – Test Driven Development and Logging Framework
+
+This module demonstrates core concepts of unit testing using **JUnit**, mocking using **Mockito**, and logging using **SLF4J**.
+
+---
+
+## Exercises Included
+
+### 1. Exercise 01 – Setting Up JUnit
+**Path:** `test/java/com/example/JUnit/Exercise_01_Setting_Up_JUnit`
+
+- Sets up the JUnit environment.
+- Basic `@Test` method validation.
+- File: `TestClass.java`
+
+### 2. Exercise 03 – Assertions in JUnit
+**Path:** `test/java/com/example/JUnit/Exercise_03_Assertions_in_JUnit`
+
+- Demonstrates usage of common JUnit assertions like `assertEquals`, `assertTrue`, etc.
+- File: `UnitConverterAssertionsTest.java`
+
+### 3. Exercise 04 – AAA and Fixtures
+**Path:** `test/java/com/example/JUnit/Exercise_04_AAA_and_Fixtures`
+
+- AAA = Arrange, Act, Assert.
+- Includes test setup/teardown best practices.
+- File: `UnitConverterTest.java`
+
+---
+
+##  Mockito Tests
+
+### 4. Exercise 01 – Mocking and Verifying
+**Path:** `test/java/com/example/Mockito/Exercise_01_Mocking_and_Verifying`
+
+- Demonstrates creation of mocks using Mockito.
+- File: `UnitConversionServiceTest.java`
+
+### 5. Exercise 02 – Verifying Interactions
+**Path:** `test/java/com/example/Mockito/Exercise_02_Verifying_Interactions`
+
+- Verifies behavior and method calls with mock interactions.
+- Files: 
+  - `UnitConversionServiceExercise.java`
+  - `ExternalService.java`
+
+---
+
+## Logging with SLF4J
+
+### 6. Exercise 01 – Logging Example
+**Path:** `main/java/com/example/SLF4J_Logging/Exercise_01_LoggingExample`
+
+- Demonstrates use of SLF4J with LoggerFactory.
+- File: `LoggingExample.java`
+
+---
+
+## ⚙️ Main Application
+
+- App Entry Point: `App.java`
+- Business Logic: `UnitConverter.java`
+
+---
+
+## 📦 Build Instructions
+
+Ensure [Maven](https://maven.apache.org/) is installed. Then:
+
+```bash
+mvn clean install
+
 
