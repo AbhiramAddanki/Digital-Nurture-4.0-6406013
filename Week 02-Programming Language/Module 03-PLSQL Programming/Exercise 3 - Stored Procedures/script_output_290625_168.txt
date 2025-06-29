@@ -1,0 +1,31 @@
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.004
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.003
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.003
+ACC_ID CLIENT_REF ACC_BALANCE ACC_TYPE   
+------ ---------- ----------- ---------- 
+2011   201        17575.92    SAVINGS    
+2012   202        13000       CHECKING   
+
+Elapsed: 00:00:00.001
+2 rows selected. 
+
+STAFF_ID DEPT BASE_PAY  
+-------- ---- --------- 
+501      IT   20837.25  
+502      IT   289406.25 
+
+Elapsed: 00:00:00.001
+2 rows selected. 
+

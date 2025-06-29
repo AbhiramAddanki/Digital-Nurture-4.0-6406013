@@ -1,0 +1,6 @@
+com\example\Mockito\Exercise_02_Verifying_Interactions\ExternalService.class
+com\example\Mockito\Exercise_02_Verifying_Interactions\UnitConversionService.class
+com\example\JUnit\Exercise_03_Assertions_in_JUnit\UnitConverterAssertionsTest.class
+com\example\JUnit\Exercise_01_Setting_Up_JUnit\TestClass.class
+com\example\JUnit\Exercise_04_AAA_and_Fixtures\UnitConverterTest.class
+com\example\Mockito\Exercise_01_Mocking_and_Verifying\UnitConversionServiceTest.class
