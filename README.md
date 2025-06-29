@@ -9,7 +9,7 @@ This repository contains all the mandatory hands-on exercises completed as part 
 
 ## Module 1: Design Patterns & Principles
 
-## 1️ Singleton Pattern  
+## 1️. Singleton Pattern  
 **Exercise**: Logger implementation using the Singleton Design Pattern.  
 **Objective**: Ensure that only one instance of the logger exists across the application.  
 **Highlights**:
@@ -22,7 +22,7 @@ This repository contains all the mandatory hands-on exercises completed as part 
 
 ---
 
-## 2️ Factory Method Pattern  
+## 2️. Factory Method Pattern  
 **Exercise**: Document creation using the Factory Method Design Pattern.  
 **Objective**: Abstract document creation logic for different types like Word, PDF, and Excel.  
 **Highlights**:
@@ -37,7 +37,7 @@ This repository contains all the mandatory hands-on exercises completed as part 
 
 ###  Module 2: Algorithmic Thinking & Java Implementation
 
-#### 3️ E-commerce Platform Search Function  
+#### 3️. E-commerce Platform Search Function  
 **Exercise**: Implementation of product search functionalities using Linear and Binary search.  
 **Objective**: Develop efficient search for products in an e-commerce platform.  
 **Highlights**:
@@ -51,7 +51,7 @@ This repository contains all the mandatory hands-on exercises completed as part 
 
 ---
 
-#### 4 Financial Forecasting  
+#### 4. Financial Forecasting  
 **Exercise**: Predict future financial value using recursion.  
 **Objective**: Forecast future value based on initial value and growth rate.  
 **Highlights**:
