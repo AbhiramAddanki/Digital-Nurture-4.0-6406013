@@ -1,0 +1,15 @@
+/* This is the main container */
+.App {
+  display: flex;
+  flex-direction: column; /* Ensures components stack vertically */
+  height: 100vh; /* Full viewport height */
+  text-align: center; /* Centers the text inside the components */
+  margin: 0; /* Removes any default margin */
+}
+
+/* This will target all h1 tags */
+h1 {
+  font-size: 24px;
+  font-weight: bold;
+  margin: 10px;
+}
